@@ -1,6 +1,9 @@
 # POST+ 
 CRUD App with Context provider component & JSON Server - React Native App
 
+--------------------
+
+
 [DEMO at snack.expo.io](https://snack.expo.io/@webdevelop/post+)
 
 [DEMO at appetize.io]()
@@ -128,6 +131,9 @@ yarn dev
 
 ``` 
 cd myproject
+
+npx expo-optimize
+
 expo start
 press control c to stop the metro bundler
 export EXPO_DEBUG=true
