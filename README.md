@@ -1,5 +1,5 @@
-# Simple Blog - CRUD App
-Simple Blog using Context provider component - React Native CRUD App
+# POST+ 
+CRUD App with Context provider component & JSON Server - React Native App
 
 [DEMO at snack.expo.io](https://snack.expo.io/@webdevelop/post+)
 
