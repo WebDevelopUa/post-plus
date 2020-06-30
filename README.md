@@ -6,7 +6,7 @@ CRUD App with Context provider component & JSON Server - React Native App
 
 [DEMO at snack.expo.io](https://snack.expo.io/@webdevelop/post+)
 
-[DEMO at appetize.io]()
+[DEMO at appetize.io](https://appetize.io/app/dhvtx75hrmupz73mnf0t0wb17r?device=nexus5&scale=75&orientation=portrait&osVersion=8.1)
 
 [JSON Server](https://stream-json-server.herokuapp.com/)
 
